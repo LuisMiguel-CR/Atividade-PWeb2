@@ -1,1 +1,2 @@
-Resolução dos exercícios 1, 2 e 11 do site https://ifpb.github.io/exercises/problems/fun%C3%A7%C3%A3o/1/
+<h1>Atividades PWEB II</h1>
+Atividades realizadas para a disciplica "Programação Web II" durando o segundo período do curso de Engenharia de Software
