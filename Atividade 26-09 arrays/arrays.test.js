@@ -1,6 +1,6 @@
 import {it, test} from 'node:test';
 import assert from 'node:assert';
-import {sum, sumOdds, product, utilitarios} from './lib.js'
+import {sum, sumOdds, product, utilitarios} from './arrays.js'
 
 test('Teste exercício 8', () => {
     it('Deve somar os números de um vetor', () => {

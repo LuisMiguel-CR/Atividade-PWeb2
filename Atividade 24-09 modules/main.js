@@ -1,5 +1,5 @@
 //Exercício 1
-import { area_circulo } from "./lib.js";
+import { area_circulo } from "./modules.js";
 
 const Ex1 = [1, 10, 20, 12, 15, 45]
 console.log(`Exercício1`);
