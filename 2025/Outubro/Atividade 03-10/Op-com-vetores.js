@@ -10,4 +10,4 @@ function product(array) {
     return array.reduce((mult, valor) => mult*valor, 1)
 }
 
-export {sum, sumOdds, product}
+export { sum, sumOdds, product }
